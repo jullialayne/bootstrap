@@ -1,0 +1,15 @@
+.secundario{
+    background-color: lightblue;
+    color:#0048ff;
+}
+
+.primario{
+    background-color: #0048ff;
+    color: lightblue;
+}
+
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
